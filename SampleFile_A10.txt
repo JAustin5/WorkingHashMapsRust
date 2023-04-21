@@ -1,0 +1,9 @@
+1977,Episode IV – A New Hope,Luke Skywalker,Mark Hamill
+1980,Episode V – The Empire Strikes Back,Princess Leia,Carrie Fisher
+1983,Episode VI – Return of the Jedi,Han Solo,Harrison Ford
+1999,Episode I – The Phantom Menace,Liam Neeson,Qui-Gon Jinn
+2002,Episode II – Attack of the Clones,Ewan McGregor,Obi-Wan Kenobi
+2005,Episode III – Revenge of the Sith,Natalie Portman,Padmé Amidala
+2015,Episode VII – The Force Awakens,Adam Driver,Kylo Ren
+2017,Episode VIII – The Last Jedi,Daisy Ridley,Rey 
+2019,Episode IX – The Rise of Skywalker,John Boyega,Finn
