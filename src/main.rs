@@ -21,7 +21,8 @@ impl fmt::Display for MovieInfo {
 // getting information out from text file and inserting into HashMap
 fn main(){
     let args: Vec<String> = std::env::args().collect();
-    let file_n = File::open(&args[2])
+//     let file_n = File::open(&args[2])
+    let file_n = File::open(&args[1])
         .expect("No such file found");
     let reader = BufReader::new(file_n);
 
