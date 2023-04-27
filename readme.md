@@ -13,6 +13,12 @@ From the command line:
 cargo run main.rs file_name.txt
 ```
 
+From the command line (if error):
+```
+cargo build
+target/debug/hw10 file_name.txt
+```
+
 ## Notes
 Replace 'file_name.txt' with desired file to operate on.
 
